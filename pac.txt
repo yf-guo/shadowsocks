@@ -14,7 +14,6 @@ var domains = {
   "githubusercontent.com": 1,
   "reddit.com": 1,
   "docker.com": 1,
-  "||docker.com": 1,
   "apkpure.co": 1,
   "d-11.winudf.com": 1,
   "winudf.com": 1, 
@@ -25,6 +24,9 @@ var domains = {
   "google-analytics.com": 1, 
   "aka.ms": 1, 
   "jetbrains.com": 1, 
+
+
+//=========上方为自己添加的规则===========
   "gimpshop.com": 1, 
   "directcreative.com": 1, 
   "speedpluss.org": 1, 
