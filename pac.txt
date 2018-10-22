@@ -4,6 +4,7 @@
 var proxy = "__PROXY__";
 
 var rules = [
+  "||jenkins.io",
   "||repo.msys2.org",
   "||gems.ruby-china.org",
   "||mybatis.org",
